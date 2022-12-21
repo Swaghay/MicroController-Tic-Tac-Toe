@@ -26,4 +26,5 @@ List of hardware components used in the project (with part numbers):
 
 ## Circuit Diagram:
 ![alt text](https://github.com/Swaghay/MicroController-Tic-Tac-Toe/blob/main/Circuit%20Diagram.png)
+
 This diagram is the same for both the player 1 and the player 2 boards.
