@@ -1,5 +1,3 @@
-# EE1301Project
-
 ## List of Team Members:
 
 Sharmarke Ahmed (ahme0344@umn.edu)
